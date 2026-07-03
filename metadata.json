@@ -1,0 +1,8 @@
+{
+  "name": "AeroCart",
+  "description": "Everything You Need, Delivered Fast - A modern multi-vendor e-commerce platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
